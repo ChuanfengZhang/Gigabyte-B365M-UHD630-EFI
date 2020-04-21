@@ -9,7 +9,7 @@ Gigabyte B365M i5-9400 UHD630 Clover config
 |  CPU  |        Intel i5-9400                        |
 |   Motherboard   |        Gigabyte B365M Aorus Elite           |
 |   Graphic   |        Intel UHD Graphics 630               |
-|   Memory   |        Corsair Vengeance 8 GB 2666 MHz DDR4 * 2 |
+|   Memory   |        Corsair Vengeance 8GB 2666 MHz DDR4 * 2 |
 |   Storage   |        WD SN500 500GB                     |
 |  Monitor  |        SKYWORTH 27U1 27" LED QHD HDR         |
 |   Audio   |        Realtek ALC892                       |
