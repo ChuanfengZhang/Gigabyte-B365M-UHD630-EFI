@@ -2,6 +2,8 @@
 
 Gigabyte B365M i5-9400 UHD630 Clover config
 
+[RX570 Clover Config](https://github.com/ChuanfengZhang/Gigabyte-B365M-UHD630-Clover/tree/RX570)
+
 ## Specification
 
 |      |                                    |
