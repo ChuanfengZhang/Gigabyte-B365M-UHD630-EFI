@@ -267,7 +267,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-lilubetaall -alcbeta</string>
+		<string>-lilubetaall -alcbeta darkwake=2</string>
 		<key>CustomLogo</key>
 		<string>Apple</string>
 		<key>DefaultVolume</key>
