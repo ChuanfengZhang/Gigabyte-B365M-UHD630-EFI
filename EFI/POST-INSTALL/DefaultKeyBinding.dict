@@ -1,0 +1,6 @@
+{
+    "\UF729"   = "moveToBeginningOfLine:";
+    "\UF72B"   = "moveToEndOfLine:";
+    "\UF72C"   = "pageUp:";
+    "\UF72D"   = "pageDown:";
+}
