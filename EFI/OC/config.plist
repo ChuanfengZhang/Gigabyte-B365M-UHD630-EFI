@@ -759,7 +759,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C029093104NLNV91H</string>
+			<string>M0000000000000001</string>
 			<key>ProcessorType</key>
 			<integer>0</integer>
 			<key>ROM</key>
@@ -771,9 +771,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02YC0FEJV3Q</string>
+			<string>W00000000001</string>
 			<key>SystemUUID</key>
-			<string>E5F0563C-C162-4BA6-815D-011A8C9891F2</string>
+			<string>00000000-0000-0000-0000-000000000000</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
