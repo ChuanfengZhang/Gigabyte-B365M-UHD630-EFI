@@ -24,7 +24,7 @@ Gigabyte B365M i5-9400 UHD630 OC config
 ![OC](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20201227171809.png)
 
 ## Screenshots
-![Overview](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20210308193551.png)
+![Overview](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20210309201602.png)
 ![Volume](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20200329180713.png)
 ![VideoProc](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20210308193315.png)
 ![Bluetooth](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20200329181000.png)
