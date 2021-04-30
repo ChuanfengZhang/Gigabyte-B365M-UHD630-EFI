@@ -2,7 +2,7 @@
 
 Gigabyte B365M i5-9400 UHD630 OC config
 
-[You can find Clover Config here](https://github.com/ChuanfengZhang/Gigabyte-B365M-UHD630-EFI/tree/clover)
+[You can get Clover Config here](https://github.com/ChuanfengZhang/Gigabyte-B365M-UHD630-EFI/tree/clover)
 
 ## Specification
 
