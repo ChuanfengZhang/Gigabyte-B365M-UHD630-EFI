@@ -17,11 +17,15 @@ Gigabyte B365M i5-9400 UHD630 OC config
 |    Audio    |                                     Realtek ALC892                                     |
 |  Wireless   |                                      BCM94360CS2                                       |
 
-## Usage
+## Usage⚠️IMPORTANT⚠️
 
 **Change SystemUUID, SerialNumber, MLB and USB Kext before using!**
 
 ![OC](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20201227171809.png)
+
+**Fixing CFG Lock**
+
+This EFI is only for users who have already installed macOS, for users who are installing for the first time enable AppleCpuPmCfgLock and AppleXcpmCfgLock under Kernel -> Quirks. Refer to [this page](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#what-is-cfg-lock) for details.
 
 ## Screenshots
 ![Overview](https://raw.githubusercontent.com/ChuanfengZhang/Image-Hosting/master/img/20210309201602.png)
