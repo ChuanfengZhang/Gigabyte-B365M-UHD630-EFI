@@ -8,13 +8,13 @@ v1.5.3 |
 
 #### NVMeFix.kext
 
-v1.0.5 |
+v1.0.7 |
 
 [Sources](https://github.com/acidanthera/NVMeFix)
 
 #### VirtualSMC.kext
 
-v1.1.9 |
+v1.2.3 |
 [Sources](https://github.com/acidanthera/VirtualSMC)
 
 - SMCProcessor.kext
@@ -38,7 +38,7 @@ v3.2.4 |
 
 #### IntelMausi.kext
 
-v1.0.5 |
+v1.0.6 |
 [Sources](https://github.com/acidanthera/IntelMausi)
 
 #### USBPorts.kext
