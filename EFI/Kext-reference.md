@@ -3,7 +3,7 @@
 
 #### Lilu.kext
 
-v1.5.1 |
+v1.5.3 |
 [Sources](https://github.com/acidanthera/Lilu)
 
 #### NVMeFix.kext
@@ -22,12 +22,12 @@ v1.1.9 |
 
 #### AppleALC.kext
 
-v1.5.5 |
+v1.6.0 |
 [Sources](https://github.com/acidanthera/AppleALC)
 
 #### WhateverGreen.kext
 
-v1.4.5 |
+v1.4.9 |
 [Sources](https://github.com/acidanthera/WhateverGreen)
 
 #### AGPMInjector.kext
