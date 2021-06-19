@@ -30,12 +30,6 @@ v1.6.0 |
 v1.4.9 |
 [Sources](https://github.com/acidanthera/WhateverGreen)
 
-#### AGPMInjector.kext
-
-v3.2.4 |
-[Sources](https://github.com/Pavo-IM/AGPMInjector)
-
-
 #### IntelMausi.kext
 
 v1.0.6 |
