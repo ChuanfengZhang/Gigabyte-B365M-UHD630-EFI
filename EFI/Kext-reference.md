@@ -3,18 +3,18 @@
 
 #### Lilu.kext
 
-v1.5.3 |
+v1.5.4 |
 [Sources](https://github.com/acidanthera/Lilu)
 
 #### NVMeFix.kext
 
-v1.0.7 |
+v1.0.9 |
 
 [Sources](https://github.com/acidanthera/NVMeFix)
 
 #### VirtualSMC.kext
 
-v1.2.3 |
+v1.2.5 |
 [Sources](https://github.com/acidanthera/VirtualSMC)
 
 - SMCProcessor.kext
@@ -22,17 +22,17 @@ v1.2.3 |
 
 #### AppleALC.kext
 
-v1.6.0 |
+v1.6.2 |
 [Sources](https://github.com/acidanthera/AppleALC)
 
 #### WhateverGreen.kext
 
-v1.4.9 |
+v1.5.1 |
 [Sources](https://github.com/acidanthera/WhateverGreen)
 
 #### IntelMausi.kext
 
-v1.0.6 |
+v1.0.7 |
 [Sources](https://github.com/acidanthera/IntelMausi)
 
 #### USBPorts.kext
