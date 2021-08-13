@@ -6,7 +6,7 @@ Gigabyte B365M i5-9400 UHD630 OC config
 
 ## Specification
 
-|             |                                                                                        |
+|  Component  |                                         Model                                          |
 | :---------: | :------------------------------------------------------------------------------------: |
 |     CPU     |                                     Intel i5-9400                                      |
 | Motherboard |                               Gigabyte B365M Aorus Elite                               |
