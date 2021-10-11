@@ -882,6 +882,8 @@
 		<key>Drivers</key>
 		<array>
 			<dict>
+				<key>Comment</key>
+				<string>HFS+ Driver</string>
 				<key>Path</key>
 				<string>HfsPlus.efi</string>
 				<key>Enabled</key>
@@ -890,6 +892,8 @@
 				<string></string>
 			</dict>
 			<dict>
+				<key>Comment</key>
+				<string></string>
 				<key>Path</key>
 				<string>OpenRuntime.efi</string>
 				<key>Enabled</key>
